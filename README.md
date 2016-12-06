@@ -13,6 +13,13 @@ Using Xcode 8, Swift 3
 * `Working with UIPickerView`
 * `Working with UIScrollView`
 
+#### Quick screenshots
+[id1]: /screenshots/miracle-pill.png "Quick screenshot of MiraclePill"
+[id2]: /screenshots/ui-scroll-view.png "Quick screenshot of UIScrollView"
+
+![MiraclePill Screenshot][id1]
+![UIScrollView Screenshot][id2]
+
 ##### Note:
 > See the [Markdown syntax guide](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
 > for making README.md
