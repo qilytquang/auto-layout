@@ -20,6 +20,9 @@ Using Xcode 8, Swift 3
 * `Changing screens with segues`
 * `UIStackView & autolayout`
 * `Custom priorities to make more responsive`
+* `Custom fonts on iOS 10`
+* `Playing audio files on iOS 10`
+* `Math and logic with retro calculator`
 
 #### Quick screenshots
 [id1]: /screenshots/miracle-pill.png "Quick screenshot of MiraclePill"
