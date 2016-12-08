@@ -14,7 +14,7 @@ Using Xcode 8, Swift 3
 
 ### Everything I've learned
 * `Creating auto-layout project`
-* `Working with constaints`
+* `Working with constraints`
 * `Working with UIPickerView`
 * `Working with UIScrollView`
 * `Working with UIStackView`
