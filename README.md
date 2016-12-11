@@ -13,6 +13,7 @@ Using Xcode 8, Swift 3
 * [SizeMeUp](https://github.com/qilytquang/size-classes) (or size-classes) `(example)`
 * [exercise-autolayout](https://github.com/qilytquang/exercise-autolayout) `(exercise)`
 * [PartyRockApp](https://github.com/qilytquang/party-rock-app) `(example)`
+* [ModelViewController](https://github.com/qilytquang/mvc-test) `(example)`
 
 ### Everything I've learned
 * `Creating auto-layout project`
@@ -34,6 +35,7 @@ Using Xcode 8, Swift 3
 * `Working with Table View: custom table cells, data modeling`
 * `Downloading images & async`
 * `Showing youtube video in a web view`
+* `Model View Controller (MVC)`
 
 
 #### Quick screenshots
@@ -46,6 +48,7 @@ Using Xcode 8, Swift 3
 [id7]: /screenshots/size-classes.png "Quick screenshot of size-class example"
 [id8]: /screenshots/exercise-autolayout.png "Quick screenshot of exercise-autolayout"
 [id9]: /screenshots/party-rock-app.png "Quick screenshot of party-rock-app"
+[id10]: /screenshots/mvc-test.png "Quick screenshot of mvc-test"
 
 ![MiraclePill Screenshot][id1]
 ![UIScrollView Screenshot][id2]
@@ -56,6 +59,7 @@ Using Xcode 8, Swift 3
 ![SizeMeUp example Screenshot][id7]
 ![Exercise Autolayout Screenshot][id8]
 ![Party Rock App Screenshot][id9]
+![MVC Screenshot][id10]
 
 ##### Note:
 > See the [Markdown syntax guide](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
